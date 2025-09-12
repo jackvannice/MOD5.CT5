@@ -12,11 +12,16 @@
 # and then display the number of points awarded
 
 def bookstore():
-    num_books = int(input("How many books did you purchase this month? "))
+    while True:
+        try:
+            num_books = int(input("How many books did you purchase this month? "))
+            break
+        except ValueError:
+            print("Invalid input. Please enter a whole number.")
     if num_books < 0:
         print("Please input a valid number of books (non-negative integer)")
     elif 0 <= num_books < 2:
-        print("Not enough books purchased, you have zero points")
+        print("Not enough books purchased, you have not earned any points")
     elif 2 <= num_books < 4:
         print("Congratulations, you have purchased enough books for 5 points")
     elif 4 <= num_books < 6:

@@ -9,7 +9,7 @@
 
 def rainfall():
     year_input = int(input("Please enter the number of years: "))
-    month_range = range(1,13)
+    month_range = range(12)
     inches_list = []
     for i in range(year_input):
         for j in month_range:

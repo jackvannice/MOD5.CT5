@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f2255d0-124f-43a1-8336-01ca98fe0452" name="Changes" comment="another commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 5 CT5 Pt 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module 5 CT5 Pt 2.py" afterDir="false" />
-    </list>
+    <list default="true" id="6f2255d0-124f-43a1-8336-01ca98fe0452" name="Changes" comment="Final commit after running all tests" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757696308737</updated>
-      <workItem from="1757696309650" duration="5704000" />
+      <workItem from="1757696309650" duration="6016000" />
     </task>
     <task id="LOCAL-00001" summary="Part 2 initial commit">
       <option name="closed" value="true" />
@@ -104,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757699736503</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Final commit after running all tests">
+      <option name="closed" value="true" />
+      <created>1757721773788</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757721773788</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,10 +119,11 @@
     <MESSAGE value="Part 2 initial commit" />
     <MESSAGE value="Commit with new features and input validation" />
     <MESSAGE value="another commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="another commit" />
+    <MESSAGE value="Final commit after running all tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final commit after running all tests" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Module_5_CT5$Module_5_CT5_Pt_2.coverage" NAME="Module 5 CT5 Pt 2 Coverage Results" MODIFIED="1757721455426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Module_5_CT5$Module_5_CT5_Pt_2.coverage" NAME="Module 5 CT5 Pt 2 Coverage Results" MODIFIED="1757721595220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Module_5_CT5$Module_5_CT5_Pt_1.coverage" NAME="Module 5 CT5 Pt 1 Coverage Results" MODIFIED="1757721260066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
